@@ -1,4 +1,4 @@
-writeCode
+nwriteCode
 
 Create a basic express server
 
